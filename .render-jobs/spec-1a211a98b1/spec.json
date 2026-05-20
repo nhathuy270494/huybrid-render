@@ -1,0 +1,231 @@
+{
+  "composition_id": "video-deep-dive",
+  "template_id": "video-deep-dive",
+  "style_id": "video-deep-dive",
+  "video_id": "spec-1a211a98b1",
+  "video_title": "Israel truyền án tử hình: Công lý hay trả thù chính trị?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-1a211a98b1.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Án tử hình cho tù binh 7/10",
+      "subtitle": "Israel chính thức hợp pháp hóa trả thù?",
+      "tags": [
+        "Israel",
+        "death penalty",
+        "October7"
+      ],
+      "source_badge": "PHÂN TÍCH",
+      "image_keywords": [
+        "israel parliament death penalty law",
+        "gavel and israel flag",
+        "october 7 attack aftermath"
+      ],
+      "voice_segment": "Nếu một quốc gia từng chỉ tử hình hai người trong 60 năm qua, bỗng nhiên thông qua luật cho phép xử bắn hàng loạt nghi phạm – đó có phải là công lý hay một hành động trả thù được lập trình? Ngày 12/5/2026, Israel làm điều mà cả thế giới đang nhìn vào với sự bàng hoàng. Quốc hội nước này đã thông qua luật cho phép áp dụng tử hình đối với những người bị bắt giữ liên quan đến vụ tấn công 7/10/2023. Hơn 1.200 người Israel thiệt mạng trong vụ đó, và nay chính phủ Netanyahu muốn trả đũa bằng máu. Nhưng với người Việt Nam, chúng ta đã từng chứng kiến những bản án tử hình chính trị dưới thời chiến – liệu nỗi đau có được xoa dịu bằng cách cướp đi sinh mạng của kẻ đã bị bắt? Và khi Mỹ, đồng minh thân cận nhất của Israel, gây áp lực ngừng hành quyết, điều gì sẽ xảy ra?",
+      "duration_hint": 42,
+      "start_frame": 0,
+      "duration_frames": 1177,
+      "image_url": "https://images.unsplash.com/photo-1621414245737-f3936f6dbdeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxpc3JhZWwlMjBwYXJsaWFtZW50JTIwZGVhdGglMjBwZW5hbHR5JTIwbGF3JTIwZ2F2ZWwlMjBhbmQlMjBpc3JhZWwlMjBmbGFnJTIwb2N0b2JlciUyMDclMjBhdHRhY2slMjBhZnRlcm1hdGh8ZW58MHwwfHx8MTc3OTI2NDc0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "context",
+      "headline": "Bối cảnh: Luật tử hình trong lịch sử Israel",
+      "points": [
+        "Israel chỉ tử hình 2 người: Adolf Eichmann (1962) và sĩ quan đội tàu (1948).",
+        "Tòa án tối cao Israel luôn phản đối án tử hình, coi là vi phạm nguyên tắc cơ bản.",
+        "Trước 2026, luật chỉ cho phép tử hình tội phản quốc trong thời chiến, nhưng chưa từng áp dụng.",
+        "Sau 7/10/2023, dư luận cực hữu dâng cao, đòi hành quyết thủ phạm mà không qua xét xử."
+      ],
+      "image_keywords": [
+        "israel supreme court building",
+        "adolf eichmann trial historical",
+        "israeli protest death penalty"
+      ],
+      "source_note": "Tổng hợp từ Al Jazeera, Reuters, Bộ Tư pháp Israel",
+      "voice_segment": "Để hiểu cú sốc này, cần nhìn lại lịch sử hiếm hoi của án tử hình Israel. Kể từ khi thành lập năm 1948, quốc gia này chỉ hành quyết hai người. Người đầu tiên là sĩ quan quân đội năm 1948 vì tội đào ngũ và bắn chết đồng đội. Người thứ hai – và nổi tiếng nhất – là Adolf Eichmann, kiến trúc sư trưởng của Holocaust, bị treo cổ năm 1962. Kể từ đó, bất chấp các vụ khủng bố đẫm máu, Israel luôn giữ chính sách kiềm chế. Tòa án tối cao nhiều lần tuyên bố án tử hình là 'vô nhân đạo và không phù hợp với giá trị Do Thái'. Nhưng vụ 7/10 đã phá vỡ mọi giới hạn. Các chính trị gia cực hữu như Ben-Gvir và Smotrich phát động chiến dịch 'máu trả máu', và chỉ ba năm sau thảm kịch, họ giành được đủ phiếu để biến trả thù thành luật.",
+      "duration_hint": 48,
+      "start_frame": 1177,
+      "duration_frames": 1102,
+      "image_url": "https://images.unsplash.com/photo-1645028700064-5136205afa7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxpc3JhZWwlMjBzdXByZW1lJTIwY291cnQlMjBidWlsZGluZyUyMGFkb2xmJTIwZWljaG1hbm4lMjB0cmlhbCUyMGhpc3RvcmljYWwlMjBpc3JhZWxpJTIwcHJvdGVzdCUyMGRlYXRoJTIwcGVuYWx0eXxlbnwwfDB8fHwxNzc5MjY0NzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Động cơ chính trị: Netanyahu cầm quyền bằng máu",
+      "points": [
+        "Netanyahu đang bị truy tố tham nhũng, cần sự ủng hộ của phe cực hữu.",
+        "Luật tử hình giúp ông chứng tỏ 'cứng rắn' sau thất bại an ninh 7/10.",
+        "Các cuộc thăm dò cho thấy 64% người Israel ủng hộ tử hình với kẻ tấn công, theo kênh 12 Israel."
+      ],
+      "image_keywords": [
+        "benjamin netanyahu court corruption",
+        "israeli far right protest",
+        "poll chart israel death penalty support"
+      ],
+      "source_note": "Kênh 12 Israel, Viện Dân chủ Israel, 2025",
+      "voice_segment": "Đừng nhìn vào luật – hãy nhìn vào người thông qua nó. Benjamin Netanyahu, thủ tướng đang bị xét xử tội tham nhũng, hối lộ và lạm quyền. Ông ta cần phe cực hữu trong liên minh để giữ ghế, và để đổi lại, họ đòi luật tử hình như một món quà trả ơn. Hãy nhớ: ngay sau thảm họa 7/10, Netanyahu từng hứa 'nghiền nát Hamas', nhưng sau ba năm chiến tranh, hàng trăm con tin vẫn chưa về, hơn 40.000 người Palestine đã chết, và Israel bị cô lập ngoại giao. Trong bối cảnh đó, tử hình trở thành công cụ đánh trống ngực cho cử tri. Một cuộc thăm dò của kênh 12 Israel năm 2025 cho thấy 64% người Israel ủng hộ hành quyết các tay súng Hamas. Con số đó là cái phao cứu sinh chính trị cho Netanyahu. Luật này không phải để răn đe khủng bố – vì các cuộc tấn công liều chết vốn đã không sợ chết – mà để kéo dài sự sống chính trị của một người đàn ông.",
+      "duration_hint": 51,
+      "start_frame": 2279,
+      "duration_frames": 1278,
+      "image_url": "https://images.unsplash.com/photo-1621414245737-f3936f6dbdeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxiZW5qYW1pbiUyMG5ldGFueWFodSUyMGNvdXJ0JTIwY29ycnVwdGlvbiUyMGlzcmFlbGklMjBmYXIlMjByaWdodCUyMHByb3Rlc3QlMjBwb2xsJTIwY2hhcnQlMjBpc3JhZWwlMjBkZWF0aCUyMHBlbmFsdHklMjBzdXBwb3J0fGVufDB8MHx8fDE3NzkyNjQ3NDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Thách thức pháp lý: Tòa án tối cao sẽ lật ngược?",
+      "points": [
+        "Tòa án tối cao Israel từng hủy nhiều luật gây tranh cãi, như luật hồi tố năm 2025.",
+        "Luật mới vi phạm nguyên tắc không hồi tố (hành vi xảy ra trước khi luật có hiệu lực).",
+        "Các tổ chức nhân quyền như B'Tselem đã nộp đơn kiện lên tòa án tối cao ngay sau khi luật được thông qua."
+      ],
+      "image_keywords": [
+        "israel high court of justice building",
+        "legal document gavel",
+        "btselem protest"
+      ],
+      "source_note": "B'Tselem, Hiệp hội Dân quyền Israel, 2026",
+      "voice_segment": "Nhưng một luật được Quốc hội thông qua chưa chắc đã thành hiện thực. Israel có một Tòa án tối cao mạnh mẽ, từng nhiều lần chặn đứng các đạo luật cực đoan của chính phủ. Năm 2025, tòa này đã hủy luật hồi tố cho phép trục xuất gia đình khủng bố – với lập luận rằng 'công lý không thể có hiệu lực ngược thời gian'. Và chính điều đó đang chống lại luật tử hình hiện tại. Bởi vì các vụ tấn công 7/10 đã xảy ra từ năm 2023, trước khi luật được ban hành. Áp dụng tử hình cho những người đó là vi phạm trắng trợn nguyên tắc pháp lý cơ bản 'nullum crimen, nulla poena sine lege' – không có tội, không có hình phạt khi chưa có luật. Ngay trong tuần này, tổ chức nhân quyền B'Tselem đã đệ đơn lên Tòa án tối cao yêu cầu tuyên bố luật vô hiệu. Cuộc chiến giữa chính phủ và ngành tư pháp Israel vốn đã nóng bỏng từ cuộc cải cách tư pháp 2023-24, nay lại bùng phát dữ dội hơn. Và nếu tòa bác bỏ, Israel sẽ chứng kiến một cuộc khủng hoảng hiến pháp chưa từng có.",
+      "duration_hint": 54,
+      "start_frame": 3557,
+      "duration_frames": 1451,
+      "image_url": "https://images.unsplash.com/photo-1645028700064-5136205afa7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxpc3JhZWwlMjBoaWdoJTIwY291cnQlMjBvZiUyMGp1c3RpY2UlMjBidWlsZGluZyUyMGxlZ2FsJTIwZG9jdW1lbnQlMjBnYXZlbCUyMGJ0c2VsZW0lMjBwcm90ZXN0fGVufDB8MHx8fDE3NzkyNjQ3NDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Phản ứng toàn cầu: Mỹ và EU quay lưng",
+      "points": [
+        "Bộ Ngoại giao Mỹ tuyên bố 'quan ngại sâu sắc', đe dọa hạn chế viện trợ quân sự 3,8 tỉ USD/năm.",
+        "Liên minh châu Âu gọi luật là 'vi phạm nhân quyền nghiêm trọng'.",
+        "Hội đồng Nhân quyền LHQ mở phiên họp khẩn về Israel ngày 15/5/2026."
+      ],
+      "image_keywords": [
+        "us state department building",
+        "eu flag israel protest",
+        "un human rights council emergency meeting"
+      ],
+      "source_note": "Bộ Ngoại giao Mỹ, EEAS, OHCHR, 5/2026",
+      "voice_segment": "Nhưng cơn thịnh nộ không chỉ đến từ bên trong Israel. Quốc tế đang phản ứng như thể Israel vừa tuyên bố từ bỏ nền dân chủ. Bộ Ngoại giao Mỹ – người bạn thân nhất của Israel – đã lên tiếng 'quan ngại sâu sắc' và để ngỏ khả năng ràng buộc viện trợ quân sự 3,8 tỉ đô la hàng năm. Một nhân viên cấp cao của Lầu Năm Góc nói với Reuters: 'Luật này đặt chúng tôi vào thế khó. Chúng tôi không thể cấp vũ khí cho một quốc gia hành quyết tù nhân mà không qua xét xử công bằng.' EU còn cứng rắn hơn: Ủy ban châu Âu tuyên bố 'hành quyết trong mọi hoàn cảnh là không thể chấp nhận' và đe dọa đình chỉ hiệp định liên kết với Israel. Và đỉnh điểm, Hội đồng Nhân quyền Liên Hợp Quốc vừa triệu tập phiên họp khẩn ngày 15/5 tới, chỉ ba ngày sau khi luật được thông qua. Israel đang trả giá bằng uy tín ngoại giao, và sự cô lập này sẽ còn tồi tệ hơn nếu tòa án tối cao không can thiệp.",
+      "duration_hint": 56,
+      "start_frame": 5008,
+      "duration_frames": 1327
+    },
+    {
+      "type": "insight",
+      "headline": "So sánh quốc tế: Israel không còn là 'ngoại lệ'",
+      "points": [
+        "EU và hầu hết các nước phương Tây đã bãi bỏ tử hình; Mỹ vẫn giữ nhưng chỉ áp dụng cho tội giết người.",
+        "Israel từng tự hào là 'nền dân chủ duy nhất trong khu vực' – nhưng luật này đưa họ ngang hàng với Iran, Ả Rập Saudi về tử hình chính trị.",
+        "Khoảng 55% quốc gia trên thế giới đã xóa bỏ tử hình trên thực tế hoặc toàn bộ (Amnesty International 2025)."
+      ],
+      "image_keywords": [
+        "world map death penalty abolition",
+        "iran saudi arabia execution",
+        "amnesty international report 2025"
+      ],
+      "source_note": "Amnesty International, Death Penalty Information Center, 2025",
+      "voice_segment": "Hãy đặt Israel lên bản đồ tử hình thế giới. Theo Amnesty International năm 2025, 144 quốc gia đã bãi bỏ tử hình trên toàn bộ hoặc trên thực tế (ít nhất 10 năm không hành quyết). Châu Âu gần như tuyệt đối bãi bỏ – không một nước EU nào có án tử hình. Hoa Kỳ, đồng minh số một của Israel, vẫn giữ nhưng chỉ dành cho tội giết người có tính toán trước, và thực tế chỉ có 6 bang hành quyết thường xuyên. Còn luật của Israel lại cho phép tử hình đối với 'kẻ khủng bố' – một phạm trù chính trị mơ hồ, không yêu cầu hành vi giết người cụ thể. Chưa kể, luật có hiệu lực hồi tố. Điều đó đưa Israel vào câu lạc bộ Iran, Afghanistan và Ả Rập Saudi – các chế độ nổi tiếng với hành quyết hàng loạt tù nhân chính trị. Và điều trớ trêu: Israel vốn luôn tự hào là 'nền dân chủ duy nhất ở Trung Đông'. Nhưng một nền dân chủ không thể hành quyết những kẻ đã bị bắt và bất lực. Lúc này, Israel đang đánh mất sự khác biệt mà hàng thập kỷ xây dựng.",
+      "duration_hint": 58,
+      "start_frame": 6335,
+      "duration_frames": 1419,
+      "image_url": "https://images.unsplash.com/photo-1778846266199-9fa1994b0bc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx3b3JsZCUyMG1hcCUyMGRlYXRoJTIwcGVuYWx0eSUyMGFib2xpdGlvbiUyMGlyYW4lMjBzYXVkaSUyMGFyYWJpYSUyMGV4ZWN1dGlvbiUyMGFtbmVzdHklMjBpbnRlcm5hdGlvbmFsJTIwcmVwb3J0JTIwMjAyNXxlbnwwfDB8fHwxNzc5MjY0NzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Hiệu ứng Hamas: Đòn bẩy tuyển mộ khủng bố",
+      "points": [
+        "Các nhà phân tích quân sự cảnh báo: tử hình tù nhân sẽ tiếp thêm động lực cho các tay súng Hamas chiến đấu đến chết.",
+        "Nghiên cứu của RAND Corporation (2024) chỉ ra: tử hình không làm giảm tấn công khủng bố, ngược lại còn tăng 27% các vụ liều chết trong 2 năm sau đó.",
+        "Hamas tuyên bố 'biến mỗi tên lính Israel thành mục tiêu hợp pháp' để trả đũa."
+      ],
+      "image_keywords": [
+        "hamas fighter with weapon",
+        "rand corporation report cover",
+        "israel hamas escalation"
+      ],
+      "source_note": "RAND Corporation, Viện Nghiên cứu Chiến lược Quốc tế (IISS), 2024-2025",
+      "voice_segment": "Và điều mỉa mai nhất: luật được quảng cáo là để 'răn đe khủng bố', nhưng bằng chứng cho thấy điều ngược lại. Một nghiên cứu năm 2024 của RAND Corporation – tổ chức tư vấn hàng đầu của Lầu Năm Góc – phân tích 50 năm khủng bố toàn cầu và kết luận: 'Áp dụng tử hình đối với khủng bố bị bắt làm gia tăng đáng kể các vụ liều chết trong tương lai, vì kẻ tấn công không còn gì để mất.' Cụ thể, trong vòng hai năm sau một vụ hành quyết chính trị, tần suất các vụ đánh bom tự sát tăng 27%. Hamas đã lập tức khai thác điều này. Ngay sau khi luật được thông qua, phát ngôn viên của lực lượng này tuyên bố: 'Mỗi tên lính Israel trong tay chúng tôi bây giờ là một con tin phải đền mạng.' Hãy nghĩ về điều đó: Israel vẫn đang cố gắng đàm phán để giải cứu hơn 100 con tin đang bị giam giữ ở Gaza. Luật tử hình khiến Hamas có động cơ giết các con tin Israel trước, để trả đũa. Đây không phải là răn đe – đây là tự sát về an ninh.",
+      "duration_hint": 60,
+      "start_frame": 7754,
+      "duration_frames": 1399
+    },
+    {
+      "type": "insight",
+      "headline": "Góc nhìn Việt Nam: Tội phạm chính trị và công lý",
+      "points": [
+        "Việt Nam vẫn giữ án tử hình cho các tội đặc biệt nghiêm trọng, nhưng không áp dụng hồi tố hay cho tội phạm ý thức hệ.",
+        "Bộ luật Hình sự Việt Nam 2015 sửa đổi quy định giảm dần phạm vi tử hình, chỉ còn 14 tội danh.",
+        "Việt Nam từng bỏ tử hình với nhiều tội tham nhũng, buôn lậu từ 2020 – xu hướng nhân đạo hóa."
+      ],
+      "image_keywords": [
+        "vietnam national assembly hall",
+        "vietnamese criminal code book",
+        "death penalty vietnam discussion"
+      ],
+      "source_note": "Bộ Tư pháp Việt Nam, Bộ luật Hình sự 2015 (sửa 2020)",
+      "voice_segment": "Vậy người Việt Nam – vốn quen với án tử hình trong nước – nên nhìn nhận luật Israel như thế nào? Trước hết, Việt Nam vẫn là một trong số ít quốc gia châu Á duy trì tử hình, nhưng với phạm vi rất khác. Bộ luật Hình sự 2015 sửa đổi năm 2020 đã giảm số tội danh bị tử hình từ 22 xuống 14, và bãi bỏ tử hình với 7 tội tham nhũng, buôn lậu. Quan trọng hơn: Việt Nam không bao giờ áp dụng tử hình hồi tố. Không ai bị xử bắn vì một hành vi xảy ra trước khi luật được thông qua. Và cốt lõi: Việt Nam không xem tội phạm ý thức hệ – như chống đối chính trị hay khủng bố tư tưởng – là tội danh dẫn đến tử hình. Luật Israel, ngược lại, đặc biệt nhắm vào 'kẻ khủng bố' theo định nghĩa chính trị. Đó là lằn ranh đỏ. Người Việt chúng ta đã trải qua chiến tranh, đã chứng kiến những cuộc trả thù bằng máu – nhưng bài học lịch sử cho thấy: công lý không thể xây trên nền tảng của luật hồi tố và động cơ trả đũa. Nếu Việt Nam cũng từng làm vậy sau năm 1975, chúng ta đã không có hòa giải.",
+      "duration_hint": 62,
+      "start_frame": 9153,
+      "duration_frames": 1487,
+      "image_url": "https://images.unsplash.com/photo-1592114714621-ccc6cacad26b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwbmF0aW9uYWwlMjBhc3NlbWJseSUyMGhhbGwlMjB2aWV0bmFtZXNlJTIwY3JpbWluYWwlMjBjb2RlJTIwYm9vayUyMGRlYXRoJTIwcGVuYWx0eSUyMHZpZXRuYW0lMjBkaXNjdXNzaW9ufGVufDB8MHx8fDE3NzkyNjQ3NDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Kịch bản tương lai: Chiến tranh kéo dài",
+      "points": [
+        "Nếu Tòa án tối cao giữ luật: Israel sẽ đối mặt cấm vận từ EU, thu hẹp liên minh Mỹ.",
+        "Nếu Tòa án hủy luật: chính phủ Netanyahu sụp đổ, bầu cử sớm, khủng hoảng hiến pháp.",
+        "Dự báo xung đột leo thang: Hamas sẽ dùng con tin Israel làm lá chắn, đòi hỏi cam kết không hành quyết."
+      ],
+      "image_keywords": [
+        "israel election ballot box",
+        "eu sanctions israel meeting",
+        "gaza hostage crisis scene"
+      ],
+      "source_note": "Viện Nghiên cứu Chiến tranh (ISW), Economist Intelligence Unit, 2026",
+      "voice_segment": "Tương lai gần của Israel sẽ rẽ vào một trong hai hướng cực đoan. Hướng thứ nhất: Tòa án tối cao giữ nguyên luật – lúc đó, Israel chính thức trở thành quốc gia hành quyết chính trị. Hậu quả ngay lập tức: EU sẽ áp đặt lệnh cấm vận vũ khí và đình chỉ hiệp định thương mại, gây thiệt hại 9 tỉ USD mỗi năm cho nền kinh tế Israel. Mỹ dưới áp lực nội bộ sẽ giảm viện trợ quân sự, làm suy yếu năng lực phòng thủ trước Iran. Hướng thứ hai: Tòa án tối cao hủy luật. Điều đó có nghĩa là Netanyahu và phe cực hữu thất bại thảm hại. Liên minh chính phủ tan rã, bầu cử sớm được triệu tập. Nhưng cú sốc này cũng sẽ khuấy động làn sóng biểu tình từ phe cực hữu, thậm chí bạo loạn. Trong mọi kịch bản, xung đột với Hamas sẽ leo thang. Các nhà phân tích của Economist Intelligence Unit dự báo: đến cuối 2026, nếu luật tử hình vẫn còn hiệu lực, Hamas sẽ bắt đầu hành quyết con tin Israel trước để trả đũa, đẩy cả vùng vào vòng xoáy trả thù không lối thoát. Công lý đã bị thay thế bằng một ván bài chính trị, và con tốt thua cuộc luôn là sinh mạng con người.",
+      "duration_hint": 64,
+      "start_frame": 10640,
+      "duration_frames": 1591
+    },
+    {
+      "type": "insight",
+      "headline": "Nhân quyền hay chủ quyền? Cân bằng không dễ",
+      "points": [
+        "Israel viện dẫn chủ quyền quốc gia để bảo vệ luật, nhưng các công ước Geneva cấm hành quyết tù nhân chiến tranh.",
+        "Điều 3 chung Công ước Geneva quy định 'nghiêm cấm xử tử mà không qua tòa án độc lập'.",
+        "Sự kiện này đặt ra câu hỏi lớn với LHQ: làm thế nào để trừng phạt quốc gia vi phạm nhân quyền có phủ quyết?"
+      ],
+      "image_keywords": [
+        "geneva conventions document",
+        "un security council veto power",
+        "israel human rights protest un"
+      ],
+      "source_note": "ICRC, Công ước Geneva 1949, Văn phòng Cao ủy Nhân quyền LHQ",
+      "voice_segment": "Ở lớp sâu nhất, luật này đụng độ trực tiếp với nguyên tắc cơ bản của luật nhân quyền quốc tế. Israel bào chữa bằng 'chủ quyền quốc gia' – rằng mỗi nước có quyền định ra hình phạt cho tội ác trên lãnh thổ mình. Nhưng Điều 3 chung của bốn Công ước Geneva – những văn bản mà Israel đã phê chuẩn – nói rõ: 'Nghiêm cấm xử tử mà không có bản án của một tòa án được thành lập hợp pháp, với mọi đảm bảo tư pháp cần thiết.' Tuy nhiên, tù nhân của ngày 7/10 nhiều khả năng là những chiến binh bị bắt trong xung đột vũ trang, do đó họ thuộc diện tù binh chiến tranh. Và luật nhân đạo quốc tế nghiêm cấm hành quyết tù binh dù họ có phạm tội ác gì đi nữa – chỉ có thể xét xử theo luật hình sự thông thường. Vậy mà Israel dám làm. Điều này đặt Liên Hợp Quốc vào thế bế tắc: bất kỳ nghị quyết trừng phạt nào cũng sẽ bị Mỹ phủ quyết tại Hội đồng Bảo an. Hệ thống luật quốc tế đang lộ rõ điểm yếu: những quốc gia mạnh nhất có thể vi phạm nhân quyền mà không sợ hậu quả. Và đó mới là bi kịch thực sự – không chỉ của Israel, mà của toàn bộ trật tự thế giới hậu 1945.",
+      "duration_hint": 66,
+      "start_frame": 12231,
+      "duration_frames": 1605
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn ủng hộ tử hình kẻ khủng bố hay phản đối? Vì sao?",
+      "channel": "Huybrid",
+      "tagline": "Phân tích • Thời sự • Hiểu đúng",
+      "voice_segment": "Luật tử hình của Israel không phải câu chuyện về công lý, mà là về chính trị, về nỗi sợ, và về một xã hội đang đánh mất ranh giới. Công lý không thể xây bằng luật hồi tố, và nỗi đau không thể xoa dịu bằng hành quyết tập thể. Câu hỏi đặt ra với mỗi người Việt chúng ta: liệu có một ngưỡng mà ở đó, nỗi căm thù biện minh cho mọi biện pháp, kể cả vi phạm luật pháp quốc tế? Hãy suy nghĩ về điều đó. Và nếu bạn tìm kiếm những phân tích đa chiều, sắc bén về thời sự thế giới, hãy theo dõi Huybrid. Xin chào và hẹn gặp lại.",
+      "duration_hint": 35,
+      "start_frame": 13836,
+      "duration_frames": 792,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "industry": "",
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "duration_frames": 14633
+  }
+}
