@@ -1,0 +1,268 @@
+{
+  "composition_id": "video-deep-dive",
+  "template_id": "video-deep-dive",
+  "style_id": "video-deep-dive",
+  "video_id": "spec-2c032e4cb0",
+  "video_title": "Iran-Israel: Trump NÓNG MẶT, chiến tranh tổng lực sắp nổ?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-2c032e4cb0.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Mỹ - Iran sắp đánh nhau?",
+      "subtitle": "Trump ném tối hậu thư, Israel dồn quân: Trung Đông chìm trong khói lửa?",
+      "tags": [
+        "Iran",
+        "Israel",
+        "Trump",
+        "MiddleEast"
+      ],
+      "source_badge": "PHÂN TÍCH",
+      "image_keywords": [
+        "middle east conflict",
+        "missile attack",
+        "night explosion"
+      ],
+      "voice_segment": "Ai sẽ là người bóp cò đầu tiên? Chỉ trong 72 giờ qua, Tổng thống Trump đã thẳng tay bác bỏ phản hồi của Iran với tuyên bố 'không thể chấp nhận', trong khi quân đội Israel điều thêm lữ đoàn thiết giáp đến biên giới Lebanon. Cả thế giới đang nín thở trước nguy cơ một cuộc chiến tranh tổng lực – thứ có thể đốt cháy toàn bộ vùng Vịnh và kéo theo hàng loạt hệ lụy. Với người Việt chúng ta, câu chuyện này chẳng hề xa vời: mỗi khi dầu lửa Trung Đông rung chuyển, giá xăng trong nước lại nhảy múa, kéo theo lạm phát và khủng hoảng chi phí sinh hoạt. Vậy thực chất căng thẳng này đến đâu? Liệu đây chỉ là một ván bài chính trị hay mầm mống của Thế chiến thứ ba?",
+      "duration_hint": 35,
+      "start_frame": 0,
+      "duration_frames": 1032,
+      "image_url": "https://images.unsplash.com/photo-1698747568774-ff57220d2fd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxtaWRkbGUlMjBlYXN0JTIwY29uZmxpY3QlMjBtaXNzaWxlJTIwYXR0YWNrJTIwbmlnaHQlMjBleHBsb3Npb258ZW58MHwwfHx8MTc3OTIwNTczMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "context",
+      "headline": "Bối cảnh: 70 năm thù địch Iran - Israel",
+      "points": [
+        "Từ 1979: Iran cắt đứt quan hệ, ủng hộ Hezbollah và Hamas chống Israel",
+        "Chiến tranh ngầm: ám sát nhà khoa học hạt nhân Iran, tấn công mạng, không kích Syria",
+        "Hiện tại: Iran làm giàu urani cấp 60%, Israel có hàng trăm đầu đạn hạt nhân không tuyên bố"
+      ],
+      "image_keywords": [
+        "iran nuclear site",
+        "israel military",
+        "middle east map"
+      ],
+      "source_note": "Tổng hợp AIEA, Bộ Quốc phòng Israel",
+      "voice_segment": "Để hiểu vì sao chỉ một phát ngôn của Trump cũng đủ làm thế giới chao đảo, chúng ta cần nhìn lại lịch sử 70 năm thù địch giữa Iran và Israel. Mọi chuyện bắt đầu từ cuộc cách mạng Hồi giáo năm 1979, khi Tehran không chỉ cắt đứt quan hệ với Israel mà còn biến chống Israel thành trụ cột chính sách đối ngoại. Cả hai sau đó lao vào một cuộc chiến tranh ngầm: Iran nuôi dưỡng Hezbollah ở Lebanon và Hamas ở Dải Gaza, trong khi Israel trả đũa bằng các vụ ám sát nhà khoa học hạt nhân Iran, tấn công mạng vào hệ thống điện và không kích hàng loạt mục tiêu của Iran tại Syria. Hiện tại, Iran đã làm giàu urani lên cấp độ 60% – chỉ một bước nữa là đạt cấp độ vũ khí. Israel, dù không thừa nhận, sở hữu khoảng 400 đầu đạn hạt nhân. Đây không còn là cuộc chơi nhỏ, mà là quả bom hẹn giờ.",
+      "duration_hint": 35,
+      "start_frame": 1032,
+      "duration_frames": 1223
+    },
+    {
+      "type": "insight",
+      "headline": "Trump khác Biden: 'Điên rồ có tính toán'",
+      "points": [
+        "Biden ưu tiên ngoại giao, rút khỏi thỏa thuận hạt nhân chỉ để kiềm chế",
+        "Trump đòi Iran nhượng bộ toàn diện: chấm dứt chương trình tên lửa, rút quân khỏi Syria",
+        "Phản hồi của Iran bị phủ nhận ngay lập tức – không còn bàn đàm phán"
+      ],
+      "image_keywords": [
+        "trump white house speech",
+        "iran flag",
+        "diplomacy broken"
+      ],
+      "source_note": "Reuters, AFP",
+      "voice_segment": "So với người tiền nhiệm Joe Biden, Trump có một triết lý hoàn toàn khác: gây sức ép tối đa để bẻ gãy ý chí của Iran. Nhớ lại năm 2021, Biden dù cứng rắn vẫn để ngỏ cánh cửa quay lại thỏa thuận hạt nhân JCPOA, và chấp nhận các cuộc đàm phán gián tiếp qua Oman. Nhưng Trump thì sao? Ông từ chối bất kỳ thỏa hiệp nào. Khi Iran gửi phản hồi bằng văn bản đề xuất giảm cường độ làm giàu urani đổi lấy nới lỏng cấm vận, câu trả lời của Trump chỉ vỏn vẹn hai từ: 'không thể chấp nhận'. Điều đó đồng nghĩa với việc con đường ngoại giao gần như đã đóng. Những đòi hỏi của Trump còn đi xa hơn nhiều: Iran phải chấm dứt toàn bộ chương trình tên lửa đạn đạo, rút toàn bộ lực lượng khỏi Iraq và Syria. Đây không còn là đàm phán nữa – đó là tối hậu thư. Với một nước Iran đầy tự hào và bị dồn ép từ lệnh trừng phạt, việc chấp nhận những điều khoản đó đồng nghĩa với tự sát chính trị. Kết cục: bàn đàm phán bị lật, hai bên chỉ còn nói với nhau bằng ngôn ngữ của súng đạn.",
+      "duration_hint": 38,
+      "start_frame": 2255,
+      "duration_frames": 1505
+    },
+    {
+      "type": "insight",
+      "headline": "Lebanon: Mặt trận thứ hai đang mở",
+      "points": [
+        "Israel điều lữ đoàn 98 tinh nhuệ đến biên giới phía Bắc",
+        "Hezbollah sở hữu 150.000 rocket, có thể bắn phủ kín lãnh thổ Israel",
+        "Chiến tranh hai mặt trận Gaza-Lebanon sẽ quá sức với Iron Dome"
+      ],
+      "image_keywords": [
+        "israel lebanon border",
+        "hezbollah rocket launcher",
+        "military tank"
+      ],
+      "source_note": "Viện Nghiên cứu Chiến lược Quốc tế (IISS)",
+      "voice_segment": "Trong khi mọi ánh mắt đổ dồn về Iran, Israel đang âm thầm mở một mặt trận nóng bỏng không kém: Lebanon. Bộ trưởng Quốc phòng Israel vừa phê chuẩn kế hoạch điều lữ đoàn 98 – đơn vị thiết giáp tinh nhuệ nhất – lên biên giới phía Bắc, nơi giáp ranh với Hezbollah, lực lượng vũ trang mạnh nhất của Iran ở nước ngoài. Con số ước tính cho thấy Hezbollah sở hữu khoảng 150.000 rocket và tên lửa, bao gồm cả loại có tầm bắn 300 km có thể vươn tới mọi thành phố của Israel. Điều đáng nói là hệ thống phòng thủ Iron Dome vốn đã căng thẳng khi chống chọi với các đợt rocket từ Gaza. Nếu Hezbollah nhập cuộc cùng lúc với Hamas, Israel sẽ đối mặt với cuộc chiến hai mặt trận, khiến Iron Dome nhanh chóng bão hòa. Các tướng lĩnh Israel thừa nhận đó là kịch bản 'ác mộng'. Và với lời đe dọa gần đây từ thủ lĩnh Hezbollah Hassan Nasrallah rằng 'chúng tôi không sợ chiến tranh', mọi dấu hiệu đều chỉ ra rằng mặt trận Lebanon có thể bùng nổ bất cứ lúc nào.",
+      "duration_hint": 40,
+      "start_frame": 3760,
+      "duration_frames": 1478
+    },
+    {
+      "type": "insight",
+      "headline": "Iran sẵn sàng 'kịch bản tồi tệ'",
+      "points": [
+        "Quân đội Iran tuyên bố chuyển trạng thái sẵn sàng chiến đấu cao nhất",
+        "Phô diễn tên lửa siêu vượt âm 'Fattah-2' có thể né radar",
+        "Đồng minh: dân quân Houthi ở Yemen tấn công tàu thương mại ở Biển Đỏ"
+      ],
+      "image_keywords": [
+        "iran army parade",
+        "hypersonic missile",
+        "red sea ship fire"
+      ],
+      "source_note": "Tasnim News (Iran), USNI",
+      "voice_segment": "Iran không ngồi yên. Ngay sau khi Trump từ chối phản hồi, quân đội Iran tuyên bố nâng trạng thái sẵn sàng chiến đấu lên mức cao nhất – lần đầu tiên kể từ vụ Mỹ ám sát tướng Soleimani năm 2020. Họ phô diễn tên lửa siêu vượt âm Fattah-2 với khả năng đạt tốc độ Mach 15 và cơ động kiểu 'con thoi' trên quỹ đạo, khiến mọi hệ thống phòng thủ hiện tại gần như bất lực. Nhưng sức mạnh của Iran không chỉ nằm trong biên giới. Thông qua mạng lưới đồng minh, Tehran có thể tấn công từ xa. Ngay tuần trước, lực lượng Houthi ở Yemen – được Iran hậu thuẫn – đã phóng tên lửa đạn đạo vào một tàu chở dầu của Hy Lạp ở Biển Đỏ, gây hỏa hoạn lớn. Nếu chiến tranh tổng lực nổ ra, các eo biển chiến lược như Bab el-Mandeb hay Hormuz sẽ bị phong tỏa, siết chặt 20% nguồn cung dầu thô toàn cầu. Tổng thống Iran Raisi tuyên bố: 'Chúng tôi đã sẵn sàng cho kịch bản tồi tệ nhất'. Câu hỏi chỉ còn là khi nào, không phải nếu.",
+      "duration_hint": 40,
+      "start_frame": 5238,
+      "duration_frames": 1417
+    },
+    {
+      "type": "insight",
+      "headline": "Cú sốc giá dầu: 200 USD/thùng?",
+      "points": [
+        "Mỗi đợt leo thang làm giá dầu tăng 10-15%, hiện dầu Brent ~92 USD",
+        "Kịch bản phong tỏa Hormuz: giá có thể chạm 200-250 USD/thùng",
+        "Lần cuối cùng năm 1973: cấm vận dầu gây suy thoái toàn cầu kéo dài 3 năm"
+      ],
+      "image_keywords": [
+        "oil price chart spike",
+        "gas station crisis",
+        "oil tanker strait"
+      ],
+      "source_note": "Bloomberg, EIA",
+      "voice_segment": "Hãy nói về thứ mà ai cũng quan tâm: giá dầu. Chỉ riêng tin tức Trump bác bỏ phản hồi của Iran đã đẩy dầu Brent lên mốc 92 USD/thùng – tăng 7% chỉ trong hai phiên. Và đó mới chỉ là khởi đầu. Các nhà phân tích tại Goldman Sachs cảnh báo, nếu Israel tấn công trực tiếp vào cơ sở hạt nhân của Iran, giá dầu có thể nhảy vọt lên 150 USD trong vòng một tuần. Nhưng kịch bản tận cùng là khi Iran đáp trả bằng cách phong tỏa eo biển Hormuz – nơi vận chuyển gần 21 triệu thùng dầu mỗi ngày, tương đương 20% nhu cầu toàn cầu. Hãy tưởng tượng: một khi Hormuz bị đóng cửa, nguồn cung mất mát đó sẽ đẩy giá lên mức 200, thậm chí 250 USD/thùng. Cú sốc này còn kinh hoàng hơn cuộc khủng hoảng dầu mỏ năm 1973, khi lệnh cấm vận của OPEC khiến giá tăng gấp 4 lần và kéo theo suy thoái kéo dài ba năm. Lần này, với nền kinh tế toàn cầu đã yếu ớt sau đại dịch và chiến tranh Ukraine, một cú sốc dầu tương tự có thể đẩy cả châu Âu và Mỹ vào suy thoái sâu. Và Việt Nam sẽ hứng chịu hậu quả ra sao?",
+      "duration_hint": 42,
+      "start_frame": 6655,
+      "duration_frames": 1537,
+      "image_url": "https://images.unsplash.com/photo-1585538615744-3f6fecad04ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxvaWwlMjBwcmljZSUyMGNoYXJ0JTIwc3Bpa2UlMjBnYXMlMjBzdGF0aW9uJTIwY3Jpc2lzJTIwb2lsJTIwdGFua2VyJTIwc3RyYWl0fGVufDB8MHx8fDE3NzkyMDU3MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Việt Nam trúng đòn từ xa: Nhập khẩu dầu, xuất khẩu bấp bênh",
+      "points": [
+        "VN nhập 70% dầu thô, mỗi 10 USD tăng giá dầu làm GDP giảm 0.5%",
+        "Lạm phát nhập khẩu: xăng tăng đẩy giá vận tải, nguyên vật liệu, thực phẩm",
+        "Xuất khẩu hàng dệt may, điện tử sang Mỹ, EU sẽ đối mặt sức mua giảm sút"
+      ],
+      "image_keywords": [
+        "vietnam gas station",
+        "container ship export",
+        "inflation chart"
+      ],
+      "source_note": "Tổng cục Thống kê, Ngân hàng Thế giới",
+      "voice_segment": "Người Việt chúng ta tưởng chừng đứng ngoài cuộc chiến Trung Đông, nhưng thực chất chúng ta là 'nạn nhân thầm lặng' hàng đầu. Việt Nam hiện nhập khẩu khoảng 70% lượng dầu thô tiêu thụ nội địa, chủ yếu từ Trung Đông. Cứ mỗi khi giá dầu thế giới tăng 10 USD/thùng, GDP của Việt Nam giảm 0,5% do chi phí năng lượng và vận tải đội lên. Hãy tưởng tượng nếu giá dầu chạm 150 USD – tác động sẽ gấp nhiều lần. Cơn bão giá dầu sẽ tạo ra lạm phát nhập khẩu dây chuyền: xăng tăng kéo giá cước vận tải tăng, kéo theo giá nguyên vật liệu (nhựa, thép, phân bón), và cuối cùng là giá thực phẩm, hàng tiêu dùng. Đã có dấu hiệu: trong quý 1 năm nay, xăng RON95 đã tăng 18% so với cùng kỳ, và nếu chiến tranh nổ ra, mức tăng 30-40% là hoàn toàn khả thi. Chưa dừng lại, xuất khẩu của Việt Nam sang Mỹ và EU – hai thị trường lớn nhất – sẽ chịu thiệt hại kép: sức mua tại các nước này giảm sút vì suy thoái, đồng thời hàng hóa Việt bị đội chi phí vận chuyển. Các ngành dệt may, da giày, điện tử sẽ bị ảnh hưởng nặng nề nhất. Người Việt có thể thấy xăng tăng giá chỉ sau một đêm, nhưng hậu quả âm ỉ kéo dài suốt nhiều quý.",
+      "duration_hint": 45,
+      "start_frame": 8192,
+      "duration_frames": 1732,
+      "image_url": "https://images.unsplash.com/photo-1568333409654-2fa274761195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwZ2FzJTIwc3RhdGlvbiUyMGNvbnRhaW5lciUyMHNoaXAlMjBleHBvcnQlMjBpbmZsYXRpb24lMjBjaGFydHxlbnwwfDB8fHwxNzc5MjA1NzM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Nga và Trung Quốc: Đứng sau ai?",
+      "points": [
+        "Nga bán vũ khí cho Iran và Israel? Thực tế: Moscow xoay trục ủng hộ Iran sau chiến tranh Ukraine",
+        "Trung Quốc nhập khẩu 1 triệu thùng dầu/ngày từ Iran, không muốn gián đoạn",
+        "Cả Nga và TQ đều kêu gọi kiềm chế nhưng âm thầm hậu thuẫn Iran"
+      ],
+      "image_keywords": [
+        "putin khamenei meeting",
+        "china iran oil deal",
+        "russia china alliance"
+      ],
+      "source_note": "Reuters, SCMP",
+      "voice_segment": "Trong mọi cuộc khủng hoảng Trung Đông, không thể bỏ qua vai trò của Nga và Trung Quốc. Về phía Nga, trước năm 2022, Moscow có quan hệ khá cân bằng – bán vũ khí cho cả Iran và Israel. Nhưng sau khi bị phương Tây cấm vận vì chiến tranh Ukraine, Putin đã xoay trục ủng hộ Iran một cách rõ ràng. Iran trở thành nguồn cung cấp drone Shahed, đạn dược và thậm chí tên lửa đạn đạo cho Nga. Đổi lại, Moscow bảo vệ Iran tại Hội đồng Bảo an và cung cấp công nghệ hạt nhân. Còn Trung Quốc, nước nhập khẩu khoảng 1 triệu thùng dầu từ Iran mỗi ngày qua các thỏa thuận tránh lệnh cấm vận của Mỹ, cũng không muốn nguồn dầu này bị gián đoạn. Bắc Kinh đã ký hiệp ước hợp tác chiến lược toàn diện với Tehran kéo dài 25 năm. Cả hai ông lớn đều công khai kêu gọi kiềm chế và đối thoại, nhưng trên thực tế, họ âm thầm tiếp tục viện trợ kinh tế và quân sự cho Iran. Một cuộc chiến nổ ra sẽ làm phức tạp tham vọng của Nga và TQ tại Trung Đông, nhưng họ sẵn sàng để Iran 'làm đất đệm' nhằm làm hao mòn sức mạnh của Mỹ và Israel.",
+      "duration_hint": 42,
+      "start_frame": 9924,
+      "duration_frames": 1581
+    },
+    {
+      "type": "insight",
+      "headline": "Kịch bản hạt nhân: Giới hạn đỏ mong manh",
+      "points": [
+        "Iran có đủ nguyên liệu cho 3 quả bom cấp độ vũ khí (IAEA ước tính)",
+        "Israel tuyên bố 'không cho phép Iran có bom' – đã có kế hoạch tấn công phủ đầu",
+        "Nguy cơ mắc kẹt trong 'lý thuyết trò chơi': mỗi bên đều tính toán phòng thủ trước, dẫn đến leo thang không kiểm soát"
+      ],
+      "image_keywords": [
+        "nuclear bomb explosion",
+        "israel iran red line",
+        "iaea inspectors"
+      ],
+      "source_note": "IAEA, Viện Nghiên cứu Hòa bình Stockholm",
+      "voice_segment": "Yếu tố nguy hiểm nhất chính là ranh giới hạt nhân. Theo báo cáo mới nhất của IAEA, Iran hiện có khoảng 210 kg urani làm giàu cấp 60%. Chỉ cần làm giàu thêm một bước nữa lên 90%, số nguyên liệu này đủ để chế tạo 3 quả bom nguyên tử cỡ nhỏ. Israel, dù không thừa nhận, được cho là có hàng trăm đầu đạn nhiệt hạch. Nhưng điểm mấu chốt là 'giới hạn đỏ' của Israel: họ tuyên bố sẽ không bao giờ để Iran có bom, và sẵn sàng tấn công phủ đầu – như đã từng làm với lò phản ứng Osirak của Iraq năm 1981 và lò phản ứng Al-Kibar của Syria năm 2007. Hiện tại, nhiều nguồn tin tình báo cho thấy Israel đã lên kế hoạch tấn công các cơ sở Natanz, Fordow và Isfahan. Vấn đề nằm ở 'lý thuyết trò chơi' của các bên: Iran nghĩ rằng chỉ cần tiến gần đến ngưỡng bom sẽ đảm bảo an ninh, trong khi Israel nghĩ rằng phải tấn công trước khi quá muộn. Hai nhận thức đó tạo ra vòng xoáy leo thang chết người – bất kỳ sự cố nhỏ nào cũng có thể khiến cả hai kéo cò. Lịch sử cho thấy, khi các nước có vũ khí hạt nhân đối đầu trực tiếp, tỷ lệ tính toán sai lầm là rất cao, và một khi đã vượt khỏi tầm kiểm soát, nhân loại sẽ phải trả giá đắt.",
+      "duration_hint": 45,
+      "start_frame": 11505,
+      "duration_frames": 1751
+    },
+    {
+      "type": "insight",
+      "headline": "Thế giới Ả Rập: Đứng ngoài hay nhập cuộc?",
+      "points": [
+        "Saudi Arabia và UAE bình thường hóa quan hệ với Israel (Hiệp định Abraham) nhưng không muốn chiến tranh làm hại hình ảnh",
+        "Ai Cập và Jordan phụ thuộc an ninh vào Mỹ, sẽ không giúp Iran",
+        "Chỉ có Syria, Iraq và Yemen (các lực lượng thân Iran) thực sự hỗ trợ Tehran"
+      ],
+      "image_keywords": [
+        "saudi crown prince israel",
+        "arab league meeting",
+        "middle east map allies"
+      ],
+      "source_note": "Chatham House, Al Jazeera",
+      "voice_segment": "Liệu thế giới Ả Rập có đứng về phía Iran như trong quá khứ? Câu trả lời ngắn gọn: không. Ba thập kỷ trước, các nước Ả Rập từng tẩy chay Israel, nhưng cục diện đã thay đổi hoàn toàn. Saudi Arabia và UAE, thông qua Hiệp định Abraham do Mỹ làm trung gian, đã chính thức bình thường hóa quan hệ ngoại giao với Israel. Lý do rất thực dụng: cả hai đều coi Iran là mối đe dọa chung lớn nhất – từ chương trình tên lửa của Iran đến các lực lượng ủy nhiệm như Houthi ở Yemen. Tuy nhiên, họ cũng không muốn một cuộc chiến tranh toàn diện xảy ra ngay sát biên giới, vì điều đó sẽ đe dọa các mỏ dầu của họ và làm rung chuyển các chế độ quân chủ vốn dĩ đang bất ổn. Ai Cập và Jordan, dù từng có hòa bình với Israel từ lâu, vẫn phụ thuộc vào viện trợ an ninh của Mỹ và không thể công khai ủng hộ Israel nếu họ tấn công Iran. Ngược lại, các đồng minh thân Iran như Syria, chính quyền Baghdad ở Iraq, và lực lượng Houthi ở Yemen chắc chắn sẽ xông vào cuộc chiến nếu được Tehran huy động. Kết quả là thế giới Ả Rập bị chia rẽ sâu sắc: một bên âm thầm ủng hộ Israel chống Iran, bên kia đứng về phía Iran. Tuy nhiên, không một nước Ả Rập lớn nào muốn trở thành bãi chiến trường. Họ sẽ cầu xin Mỹ kiềm chế Israel, đồng thời kêu gọi Iran hạ nhiệt – một thái độ 'lưng chừng' đầy bất ổn.",
+      "duration_hint": 44,
+      "start_frame": 13256,
+      "duration_frames": 1991,
+      "image_url": "https://images.unsplash.com/photo-1774779685524-cc735ae11a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxzYXVkaSUyMGNyb3duJTIwcHJpbmNlJTIwaXNyYWVsJTIwYXJhYiUyMGxlYWd1ZSUyMG1lZXRpbmclMjBtaWRkbGUlMjBlYXN0JTIwbWFwJTIwYWxsaWVzfGVufDB8MHx8fDE3NzkyMDU3Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Thị trường loạn nhịp: Vàng, Bitcoin, Chứng khoán",
+      "points": [
+        "Vàng chạm 2.400 USD/ounce, cao nhất lịch sử, khi nhà đầu tư tìm nơi trú ẩn",
+        "Bitcoin lao dốc 12% ngay sau tin leo thang – thể hiện rủi ro hệ thống",
+        "Chứng khoán Mỹ giảm 5,7% chỉ trong tuần, nhạy cảm nhất kể từ Covid-19"
+      ],
+      "image_keywords": [
+        "gold bars closeup",
+        "bitcoin price crash",
+        "stock market red screen"
+      ],
+      "source_note": "Bloomberg, CoinMarketCap",
+      "voice_segment": "Thị trường tài chính luôn là phong vũ biểu nhạy cảm nhất của chiến tranh. Ngay sau khi Trump bác bỏ phản hồi của Iran, vàng – tài sản trú ẩn an toàn truyền thống – lập tức lao lên 2.400 USD/ounce, phá vỡ mọi kỷ lục. Các nhà phân tích tại UBS dự báo vàng có thể vọt lên 2.800 USD nếu xung đột bùng nổ. Nhưng hãy nhìn vào Bitcoin: thay vì tăng như nhiều người lầm tưởng là 'vàng kỹ thuật số', Bitcoin đã mất 12% giá trị chỉ trong 48 giờ, bởi khi rủi ro hệ thống xuất hiện, các nhà đầu tư tổ chức bán tháo mọi thứ để giữ tiền mặt. Điều đó cho thấy tiền ảo vẫn chưa phải là nơi trú ẩn thực sự. Chứng khoán Mỹ, đặc biệt là chỉ số S&P 500, bốc hơi 5,7% chỉ trong tuần – mức giảm mạnh nhất kể từ tháng 3/2020, thời điểm Covid-19 hoành hành. Các cổ phiếu hàng không, du lịch và bán lẻ bị ảnh hưởng nặng nhất. Đối với nhà đầu tư Việt Nam, dù thị trường chứng khoán trong nước có độ trễ vài ngày, nhưng sóng thần từ Mỹ và châu Âu chắc chắn sẽ ập đến. Hãy chuẩn bị tinh thần cho sự biến động kép từ cả giá dầu và tâm lý thị trường toàn cầu.",
+      "duration_hint": 42,
+      "start_frame": 15247,
+      "duration_frames": 1622
+    },
+    {
+      "type": "insight",
+      "headline": "Dự báo 6 tháng: Ba kịch bản",
+      "points": [
+        "Kịch bản xấu (60%): chiến tranh hạn chế Israel-Hezbollah, Iran đứng ngoài, giá dầu 120-150 USD",
+        "Kịch bản cực xấu (30%): Israel tấn công trực tiếp Iran, phong tỏa Hormuz, giá dầu 200 USD, suy thoái toàn cầu",
+        "Kịch bản lạc quan (10%): áp lực từ Nga/TQ buộc đàm phán, hạ nhiệt"
+      ],
+      "image_keywords": [
+        "middle east war map",
+        "oil embargo sign",
+        "global recession graph"
+      ],
+      "source_note": "Tổng hợp Eurointelligence, Stratfor",
+      "voice_segment": "Vậy tương lai 6 tháng tới sẽ ra sao? Dựa trên các mô hình xung đột, chúng tôi đưa ra ba kịch bản. Thứ nhất, kịch bản xác suất cao nhất – khoảng 60%: một cuộc chiến tranh hạn chế giữa Israel và Hezbollah ở Lebanon, trong đó Iran tránh đối đầu trực tiếp với Mỹ nhưng vẫn tiếp tục leo thang căng thẳng qua các lực lượng ủy nhiệm. Giá dầu dao động quanh 120-150 USD/thùng, suy thoái nhẹ tại châu Âu. Thứ hai, kịch bản cực xấu – 30%: Israel, tin rằng Iran sắp có bom, thực hiện các cuộc không kích quy mô lớn vào các cơ sở hạt nhân. Iran đáp trả bằng cách phong tỏa eo biển Hormuz và phóng hàng loạt tên lửa vào Israel. Lúc đó, giá dầu chạm 200 USD/thùng, thế giới lặp lại cuộc suy thoái như năm 1973, Việt Nam chịu lạm phát hai con số. Kịch bản thứ ba, lạc quan nhất chỉ 10%: sức ép từ Nga và Trung Quốc, cùng với sự can thiệp hậu trường của Oman và Qatar, buộc cả hai bên quay lại bàn đàm phán, hứa hẹn một lộ trình phi hạt nhân hóa đổi lấy dỡ bỏ cấm vận. Nhưng với cá tính của Trump, khả năng này rất mong manh. Người Việt cần chuẩn bị cho kịch bản xấu nhất: đó không phải là hoang tưởng, mà là một bài học từ lịch sử.",
+      "duration_hint": 45,
+      "start_frame": 16869,
+      "duration_frames": 1759,
+      "image_url": "https://images.unsplash.com/photo-1774779685524-cc735ae11a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxtaWRkbGUlMjBlYXN0JTIwd2FyJTIwbWFwJTIwb2lsJTIwZW1iYXJnbyUyMHNpZ24lMjBnbG9iYWwlMjByZWNlc3Npb24lMjBncmFwaHxlbnwwfDB8fHwxNzc5MjA1NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Liệu Trump có dám bóp cò, hay chỉ là ván bài áp lực trước bầu cử?",
+      "channel": "Huybrid",
+      "tagline": "Phân tích • Thời sự • Hiểu đúng",
+      "voice_segment": "Tóm lại, cuộc khủng hoảng Iran-Israel không chỉ là câu chuyện địa chính trị xa vời. Nó đe dọa trực tiếp đến giá xăng, lạm phát, xuất khẩu và túi tiền của mỗi gia đình Việt. Trump đang thử thách Iran ở giới hạn cuối cùng, và cả hai bên đều có quá nhiều thứ để mất. Câu hỏi lớn dành cho bạn: Bạn nghì rằng Trump sẽ thực sự tấn công Iran, hay đây chỉ là một màn đe dọa để giành lợi thế trước bầu cử? Hãy để lại suy nghĩ của bạn. Huybrid cảm ơn bạn đã lắng nghe.",
+      "duration_hint": 20,
+      "start_frame": 18628,
+      "duration_frames": 722,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkxNTE4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "industry": "",
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "duration_frames": 19354
+  }
+}
