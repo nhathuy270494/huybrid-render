@@ -1,0 +1,97 @@
+{
+  "composition_id": "short-insight-9x16",
+  "template_id": "short-insight-9x16",
+  "style_id": "short-insight-9x16",
+  "video_id": "spec-b2bc86524a",
+  "video_title": "AI giải mã sinh học? GPT-Rosalind ra đời",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-b2bc86524a.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "Science",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "AI SẮP GIẢI MÃ SINH HỌC",
+      "subtitle": "OpenAI ra mắt GPT-Rosalind, trợ lý AI cho các nhà sinh vật học",
+      "tags": [
+        "AI",
+        "Biology",
+        "GPT",
+        "OpenAI"
+      ],
+      "source_badge": "HUYBRID SCIENCE",
+      "image_keywords": [
+        "dna helix",
+        "abstract biology",
+        "glowing neurons"
+      ],
+      "voice_segment": "Điều gì sẽ xảy ra khi AI có thể trò chuyện trực tiếp với các nhà sinh vật học? OpenAI vừa vén màn GPT-Rosalind, một mô hình ngôn ngữ được thiết kế để cách mạng hóa ngành khoa học sự sống.",
+      "duration_hint": 7,
+      "start_frame": 0,
+      "duration_frames": 276,
+      "image_url": "https://images.unsplash.com/photo-1624421514201-db391243ed51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxkbmElMjBoZWxpeCUyMGFic3RyYWN0JTIwYmlvbG9neSUyMGdsb3dpbmclMjBuZXVyb25zfGVufDB8MHx8fDE3NzkyNjU5MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "GPT-Rosalind làm được gì?",
+      "points": [
+        "Phân tích dữ liệu phức tạp",
+        "Trả lời câu hỏi bằng ngôn ngữ tự nhiên",
+        "Tăng tốc nghiên cứu sinh học"
+      ],
+      "image_keywords": [
+        "scientist looking at screen",
+        "data visualization",
+        "cellular biology",
+        "microscope"
+      ],
+      "source_note": "Nguồn: OpenAI",
+      "voice_segment": "Hãy tưởng tượng, thay vì viết code phức tạp, các nhà khoa học chỉ cần 'hỏi' AI về dữ liệu của họ. GPT-Rosalind có thể giúp họ tìm các loại tế bào cụ thể, xác định các gen liên quan, và tạo ra các giả thuyết mới chỉ qua vài câu lệnh.",
+      "duration_hint": 12,
+      "start_frame": 276,
+      "duration_frames": 342,
+      "image_url": "https://images.unsplash.com/photo-1631816292086-f296d9bb337d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxzY2llbnRpc3QlMjBsb29raW5nJTIwYXQlMjBzY3JlZW4lMjBkYXRhJTIwdmlzdWFsaXphdGlvbiUyMGNlbGx1bGFyJTIwYmlvbG9neSUyMG1pY3Jvc2NvcGV8ZW58MHwwfHx8MTc3OTI2NTkxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Kỷ nguyên mới cho y học?",
+      "points": [
+        "Tìm ra thuốc mới nhanh hơn",
+        "Hiểu rõ hơn về bệnh tật",
+        "Cá nhân hóa việc điều trị"
+      ],
+      "image_keywords": [
+        "futuristic laboratory",
+        "medical research",
+        "glowing dna strand",
+        "doctor with tablet"
+      ],
+      "source_note": "Nguồn: OpenAI Blog",
+      "voice_segment": "Công cụ này không chỉ là một chatbot. Nó có tiềm năng đẩy nhanh quá trình khám phá thuốc, giải mã các bệnh di truyền và mở đường cho y học chính xác. Đây có thể là chìa khóa cho những đột phá y tế mà chúng ta đang chờ đợi.",
+      "duration_hint": 11,
+      "start_frame": 618,
+      "duration_frames": 327,
+      "image_url": "https://images.unsplash.com/photo-1758691463569-66de91d76452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxmdXR1cmlzdGljJTIwbGFib3JhdG9yeSUyMG1lZGljYWwlMjByZXNlYXJjaCUyMGdsb3dpbmclMjBkbmElMjBzdHJhbmQlMjBkb2N0b3IlMjB3aXRoJTIwdGFibGV0fGVufDB8MHx8fDE3NzkyNjU5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn nghĩ AI sẽ giải mã bí ẩn gì tiếp theo?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID SCIENCE",
+      "voice_segment": "Khi AI bắt đầu hiểu ngôn ngữ của sự sống, giới hạn duy nhất còn lại chính là trí tưởng tượng của chúng ta.",
+      "duration_hint": 5,
+      "start_frame": 945,
+      "duration_frames": 156,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1103
+  }
+}
