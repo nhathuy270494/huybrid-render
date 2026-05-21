@@ -1,0 +1,93 @@
+{
+  "composition_id": "short-insight-9x16",
+  "template_id": "short-insight-9x16",
+  "style_id": "short-insight-9x16",
+  "video_id": "spec-e5a9e29785",
+  "video_title": "AI đang làm KHOA HỌC nhanh hơn 90%?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-e5a9e29785.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "Science",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "AI lật đổ KHOA HỌC?",
+      "subtitle": "Từ năm xuống... vài phút",
+      "tags": [
+        "AI",
+        "science",
+        "breakthrough"
+      ],
+      "source_badge": "HUYBRID SCIENCE",
+      "image_keywords": [
+        "artificial intelligence",
+        "scientist robot",
+        "lab"
+      ],
+      "voice_segment": "Mất cả năm để đọc hàng nghìn bài nghiên cứu? AI của Google làm điều đó trong 5 phút. Và nó còn hơn thế: nó tự đưa ra giả thuyết mới.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 209,
+      "image_url": "https://images.unsplash.com/photo-1655393001768-d946c97d6fd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwc2NpZW50aXN0JTIwcm9ib3QlMjBsYWJ8ZW58MHwwfHx8MTc3OTMyNjg5N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Empirical Research Assistant",
+      "points": [
+        "Google Research: công cụ hỗ trợ thực nghiệm bằng AI",
+        "Phân tích 200 triệu tài liệu khoa học chỉ trong 1 ngày",
+        "Tìm ra mối liên hệ ẩn mà con người bỏ sót"
+      ],
+      "image_keywords": [
+        "Google AI research",
+        "data analysis",
+        "scientific paper"
+      ],
+      "source_note": "Research at Google (2025)",
+      "voice_segment": "Công cụ Empirical Research Assistant của Google không chỉ tìm kiếm – nó suy luận. Nó phát hiện các thí nghiệm chưa được thử, đề xuất giả thuyết mới, và thậm chí dự đoán kết quả. Các nhà khoa học đang tiết kiệm 90% thời gian cho khâu tổng hợp dữ liệu.",
+      "duration_hint": 12,
+      "start_frame": 209,
+      "duration_frames": 396,
+      "image_url": "https://images.unsplash.com/photo-1686061593269-420785fb8fa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBBSSUyMHJlc2VhcmNoJTIwZGF0YSUyMGFuYWx5c2lzJTIwc2NpZW50aWZpYyUyMHBhcGVyfGVufDB8MHx8fDE3NzkzMjY4OTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Tốc độ thay đổi quy tắc",
+      "points": [
+        "Thử nghiệm: AI phát hiện sai sót trong 3 nghiên cứu 'top journal'",
+        "Từ 1 năm xuống 1 tuần cho một chu trình nghiên cứu"
+      ],
+      "image_keywords": [
+        "faster science",
+        "AI brain",
+        "laboratory future"
+      ],
+      "source_note": "Google Research Blog",
+      "voice_segment": "Thử nghiệm thực tế cho thấy AI đã chỉ ra lỗi phân tích trong ba bài báo uy tín – thứ mà peer review bỏ lỡ. Câu hỏi đặt ra: liệu AI có trở thành đồng tác giả bắt buộc cho mọi công trình khoa học trong tương lai không?",
+      "duration_hint": 10,
+      "start_frame": 605,
+      "duration_frames": 342,
+      "image_url": "https://images.unsplash.com/photo-1674027215032-f0c4292318ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxmYXN0ZXIlMjBzY2llbmNlJTIwQUklMjBicmFpbiUyMGxhYm9yYXRvcnklMjBmdXR1cmV8ZW58MHwwfHx8MTc3OTMyNjg5OHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn tin AI hay con người hơn?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID SCIENCE",
+      "voice_segment": "Vậy, khi AI làm khoa học tốt hơn chính nhà khoa học – ai mới thực sự là người khám phá?",
+      "duration_hint": 4,
+      "start_frame": 947,
+      "duration_frames": 137,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1086
+  }
+}
