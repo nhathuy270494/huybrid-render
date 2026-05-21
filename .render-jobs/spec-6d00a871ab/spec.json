@@ -1,0 +1,92 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-6d00a871ab",
+  "video_title": "Iran thách Mỹ: Không đầu hàng, ngoại giao khôn?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-6d00a871ab.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Iran thách Mỹ: Ngoại giao khôn?",
+      "subtitle": "Tehran: Không đầu hàng Mỹ, nhưng chiến tranh ủy nhiệm vẫn diễn ra",
+      "tags": [
+        "Iran war",
+        "US diplomacy",
+        "Lebanon conflict"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "Iran flag",
+        "US flag",
+        "negotiation table"
+      ],
+      "voice_segment": "Iran vừa tuyên bố: không bao giờ đầu hàng Mỹ, ngoại giao khôn ngoan hơn chiến tranh. Nhưng trong khi họ nói vậy, bom đạn của Israel đã giết hơn 3.000 người ở Lebanon chỉ từ tháng Ba.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 274,
+      "image_url": "https://images.unsplash.com/photo-1772299399230-142f7adcec52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxJcmFuJTIwZmxhZyUyMFVTJTIwZmxhZyUyMG5lZ290aWF0aW9uJTIwdGFibGV8ZW58MHwwfHx8MTc3OTMzOTEyMHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Con số 3.073 người chết",
+      "points": [
+        "Theo Bộ Y tế Lebanon, 3.073 người thiệt mạng do các cuộc tấn công của Israel từ tháng 3/2026.",
+        "Iran hậu thuẫn Hezbollah ở Lebanon, nhưng Tehran khéo léo tránh đối đầu trực tiếp với Mỹ.",
+        "Liệu tuyên bố 'ngoại giao khôn hơn' có phải là vỏ bọc cho chiến tranh ủy nhiệm đẫm máu?"
+      ],
+      "image_keywords": [
+        "Lebanon destruction",
+        "casualty numbers",
+        "Hezbollah flag"
+      ],
+      "source_note": "Nguồn: Al Jazeera + Bộ Y tế Lebanon",
+      "voice_segment": "Hơn 3.000 dân thường Lebanon đã chết vì các cuộc không kích của Israel. Iran, qua lá chắn Hezbollah, đang đẩy khu vực vào vòng xoáy bạo lực. Trong khi Tehran lên giọng ngoại giao, máu vẫn đang đổ mỗi ngày. Đây có phải là chiến lược 'đánh thuê' của Iran?",
+      "duration_hint": 12,
+      "start_frame": 274,
+      "duration_frames": 382
+    },
+    {
+      "type": "insight",
+      "headline": "Mỹ và Iran: Chiến tranh tổng lực?",
+      "points": [
+        "Mỹ chưa có động thái quân sự trực tiếp, nhưng gây áp lực qua các lệnh trừng phạt.",
+        "Iran biết không thể thắng Mỹ trong chiến tranh quy ước, nên chọn 'hòa hoãn' để củng cố sức mạnh."
+      ],
+      "image_keywords": [
+        "US Iran diplomacy",
+        "military tension",
+        "world leaders"
+      ],
+      "source_note": "Nguồn: Al Jazeera, phân tích của HUYBRID",
+      "voice_segment": "Thực tế, Iran không đủ sức đối đầu Mỹ trên chiến trường mở. Vì vậy, họ kêu gọi 'ngoại giao' trong khi âm thầm gia tăng ảnh hưởng qua các lực lượng ủy nhiệm. Liệu Washington có rơi vào bẫy này?",
+      "duration_hint": 10,
+      "start_frame": 656,
+      "duration_frames": 290,
+      "image_url": "https://images.unsplash.com/photo-1772299399227-8840776aa3c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxVUyUyMElyYW4lMjBkaXBsb21hY3klMjBtaWxpdGFyeSUyMHRlbnNpb24lMjB3b3JsZCUyMGxlYWRlcnN8ZW58MHwwfHx8MTc3OTMzOTEyMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Theo dõi HUYBRID để cập nhật chiến sự!",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Bạn nghĩ sao: Iran thực sự muốn hòa bình hay chỉ đang câu giờ? Hãy để lại bình luận nhé!",
+      "duration_hint": 4,
+      "start_frame": 946,
+      "duration_frames": 132,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1080
+  }
+}
