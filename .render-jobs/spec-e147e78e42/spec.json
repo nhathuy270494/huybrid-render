@@ -1,0 +1,91 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-e147e78e42",
+  "video_title": "NATO bắn hạ drone: Chiến tranh điện tử?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-e147e78e42.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "NATO bắn hạ drone lạc",
+      "subtitle": "Estonia nghi vũ khí Ukraine bị Nga nhiễu",
+      "tags": [
+        "NATO",
+        "Drone",
+        "Geopolitics"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "NATO jet shooting drone",
+        "air combat"
+      ],
+      "voice_segment": "Máy bay NATO vừa bắn hạ một drone trên bầu trời Estonia. Không phải của Nga – mà rất có thể là của Ukraine, bị lạc hướng vì nhiễu điện tử của Moscow.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 249,
+      "image_url": "https://images.unsplash.com/photo-1659436703384-0fb4e7cce630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxOQVRPJTIwamV0JTIwc2hvb3RpbmclMjBkcm9uZSUyMGFpciUyMGNvbWJhdHxlbnwwfDB8fHwxNzc5MzgyOTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Chiến tranh điện tử của Nga",
+      "points": [
+        "Estonia: drone Ukraine bị nhiễu, bay lệch 300km vào NATO",
+        "NATO jet buộc bắn hạ để ngăn nguy cơ trinh sát",
+        "Nga âm thầm thử thách phòng không liên minh?"
+      ],
+      "image_keywords": [
+        "electronic warfare jamming",
+        "military drone"
+      ],
+      "source_note": "BBC News, 2026",
+      "voice_segment": "Theo BBC, Estonia cho biết chính tác chiến điện tử của Nga đã đẩy drone Ukraine chệch hướng vào vùng trời NATO. Một chiếc jet của liên minh đã phải bắn hạ nó – lần đầu tiên có hành động quân sự trực tiếp kiểu này. Câu hỏi đặt ra: Nga đang cố tình gây nhiễu để kiểm tra phản ứng của NATO?",
+      "duration_hint": 12,
+      "start_frame": 249,
+      "duration_frames": 480,
+      "image_url": "https://images.unsplash.com/photo-1757009941753-d6e23afda728?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxlbGVjdHJvbmljJTIwd2FyZmFyZSUyMGphbW1pbmclMjBtaWxpdGFyeSUyMGRyb25lfGVufDB8MHx8fDE3NzkzODI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Estonia: Điểm nóng mới?",
+      "points": [
+        "Lãnh thổ NATO lần đầu bị drone 'vô tình' xâm phạm",
+        "Phản ứng nhanh nhưng thiếu cơ chế răn đe",
+        "Nguy cơ leo thang từ chiến tranh ủy nhiệm"
+      ],
+      "image_keywords": [
+        "Estonia NATO border",
+        "geopolitical tension"
+      ],
+      "source_note": "BBC News",
+      "voice_segment": "Estonia nằm ngay sườn NATO giáp Nga. Vụ drone lạc này cho thấy chiến tranh điện tử có thể gây ra những 'sự cố' chết người bất cứ lúc nào. NATO bắn hạ nhưng không thể trừng phạt ai – vậy lần sau, nếu là tên lửa thì sao?",
+      "duration_hint": 10,
+      "start_frame": 729,
+      "duration_frames": 365,
+      "image_url": "https://images.unsplash.com/photo-1647451964413-32c632bab5da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxFc3RvbmlhJTIwTkFUTyUyMGJvcmRlciUyMGdlb3BvbGl0aWNhbCUyMHRlbnNpb258ZW58MHwwfHx8MTc3OTM4MjkzNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Theo dõi Huybrid để cập nhật",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Bạn có nghĩ Nga đang cố tình leo thang căng thẳng? Hãy để lại ý kiến nhé.",
+      "duration_hint": 4,
+      "start_frame": 1094,
+      "duration_frames": 122,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkzNjg0MDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1218
+  }
+}
