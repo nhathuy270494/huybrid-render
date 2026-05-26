@@ -1,0 +1,109 @@
+{
+  "composition_id": "video-tech-grid",
+  "template_id": "video-tech-grid",
+  "style_id": "video-tech-grid",
+  "video_id": "spec-40326db7b5",
+  "video_title": "AI: Lập trình viên sẽ bị thay thế, hay được 'nâng cấp'?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-40326db7b5.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "scenes": [
+    {
+      "type": "title",
+      "title": "AI đang 'viết code' cho bạn?",
+      "subtitle": "Runtime: Tác nhân lập trình AI cho mọi đội nhóm",
+      "tags": [
+        "AI",
+        "Lập trình",
+        "Tự động hóa"
+      ],
+      "source_badge": "HUYBRID TECH",
+      "voice_segment": "Tưởng tượng một thế giới nơi AI không chỉ gợi ý code, mà còn tự động viết, thử nghiệm và thậm chí sửa lỗi. Nghe có vẻ viễn tưởng, nhưng Runtime, một startup mới từ Y Combinator, đang biến điều đó thành hiện thực. Họ giới thiệu các tác nhân lập trình AI được \"sandbox\", hứa hẹn một cuộc cách mạng trong cách chúng ta phát triển phần mềm. Liệu đây có phải là tương lai mà chúng ta hằng mong đợi, hay một mối đe dọa tiềm tàng cho nghề lập trình?",
+      "duration_hint": 10,
+      "start_frame": 0,
+      "duration_frames": 632,
+      "image_url": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxBSSUyMEwlRTElQkElQURwJTIwdHIlQzMlQUNuaCUyMFQlRTElQkIlQjElMjAlQzQlOTElRTElQkIlOTluZyUyMGglQzMlQjNhfGVufDB8MHx8fDE3Nzk3OTg1MTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Runtime là gì? AI biết code thực sự?",
+      "image_keywords": [
+        "AI coding agent",
+        "developer tools",
+        "software development"
+      ],
+      "points": [
+        "Runtime cung cấp các tác nhân AI có khả năng tự động hóa các tác vụ lập trình lặp đi lặp lại.",
+        "Mục tiêu là giúp các nhóm phát triển phần mềm tăng tốc độ và hiệu quả công việc.",
+        "Các tác nhân này hoạt động trong môi trường \"sandbox\" an toàn, giảm thiểu rủi ro."
+      ],
+      "source_note": "Hacker News, Launch HN: Runtime (YC P26)",
+      "voice_segment": "Runtime không chỉ là một công cụ hỗ trợ code thông thường; nó là một hệ thống tác nhân AI có khả năng thực hiện các tác vụ lập trình phức tạp. Từ việc tạo ra các đoạn code, viết test, đến việc debug và refactor, các tác nhân này được thiết kế để hoạt động độc lập trong một môi trường được kiểm soát chặt chẽ. Điều này hứa hẹn giải phóng lập trình viên khỏi những công việc nhàm chán, cho phép họ tập trung vào những thách thức sáng tạo hơn. Nhưng liệu chúng ta có nên tin tưởng hoàn toàn vào một AI tự động viết code?",
+      "duration_hint": 15,
+      "start_frame": 632,
+      "duration_frames": 740,
+      "image_url": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxBSSUyMGNvZGluZyUyMGFnZW50JTIwZGV2ZWxvcGVyJTIwdG9vbHMlMjBzb2Z0d2FyZSUyMGRldmVsb3BtZW50fGVufDB8MHx8fDE3Nzk3OTg1MTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Lợi ích và rủi ro: Con người ở đâu?",
+      "image_keywords": [
+        "AI collaboration",
+        "human AI interaction",
+        "future of work"
+      ],
+      "points": [
+        "Tăng năng suất đáng kể, giảm thời gian phát triển sản phẩm.",
+        "Giúp các lập trình viên mới dễ dàng hòa nhập và đóng góp hơn.",
+        "Rủi ro về chất lượng code, bảo mật và sự phụ thuộc vào AI."
+      ],
+      "source_note": "Hacker News, Launch HN: Runtime (YC P26)",
+      "voice_segment": "Lợi ích rõ ràng nhất của Runtime là khả năng tăng tốc độ phát triển. Imagine, một tác nhân AI có thể xử lý các yêu cầu nhỏ, giải quyết bug đơn giản, hoặc thậm chí viết các module cơ bản. Điều này không chỉ giúp các lập trình viên kỳ cựu tập trung vào kiến trúc và thiết kế hệ thống, mà còn tạo điều kiện cho những người mới nhanh chóng đóng góp vào dự án. Tuy nhiên, sự phụ thuộc vào AI cũng mang đến những rủi ro tiềm ẩn. Ai sẽ chịu trách nhiệm khi AI tạo ra lỗi bảo mật nghiêm trọng? Và liệu kỹ năng lập trình của con người có bị mai một?",
+      "duration_hint": 15,
+      "start_frame": 1372,
+      "duration_frames": 772,
+      "image_url": "https://images.unsplash.com/photo-1758626044744-463ce33546a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxBSSUyMGNvbGxhYm9yYXRpb24lMjBodW1hbiUyMEFJJTIwaW50ZXJhY3Rpb24lMjBmdXR1cmUlMjBvZiUyMHdvcmt8ZW58MHwwfHx8MTc3OTc5ODUxNXww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Tương lai của lập trình: Cộng tác hay thay thế?",
+      "image_keywords": [
+        "AI programming",
+        "developer future",
+        "coding evolution"
+      ],
+      "points": [
+        "Sự xuất hiện của các tác nhân AI sẽ định hình lại vai trò của lập trình viên.",
+        "Lập trình viên sẽ chuyển từ viết code thủ công sang quản lý và giám sát AI.",
+        "Cần có sự cân bằng giữa tự động hóa và sự sáng tạo của con người."
+      ],
+      "source_note": "Hacker News, Launch HN: Runtime (YC P26)",
+      "voice_segment": "Câu hỏi lớn nhất đặt ra là: liệu AI sẽ thay thế lập trình viên, hay chỉ đơn thuần là một công cụ mạnh mẽ giúp họ làm việc hiệu quả hơn? Với Runtime, chúng ta đang chứng kiến một bước tiến lớn hướng tới sự cộng tác chặt chẽ giữa con người và AI. Vai trò của lập trình viên có thể sẽ thay đổi, từ người viết từng dòng code thành người kiến trúc sư, người giám sát, và người đưa ra quyết định cuối cùng. Điều quan trọng là chúng ta phải học cách tận dụng sức mạnh của AI mà không đánh mất đi sự sáng tạo và tư duy phản biện của con người.",
+      "duration_hint": 15,
+      "start_frame": 2144,
+      "duration_frames": 765,
+      "image_url": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxBSSUyMHByb2dyYW1taW5nJTIwZGV2ZWxvcGVyJTIwZnV0dXJlJTIwY29kaW5nJTIwZXZvbHV0aW9ufGVufDB8MHx8fDE3Nzk3OTg1MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn nghĩ AI sẽ thay đổi nghề lập trình như thế nào?",
+      "channel": "Huybrid Tech",
+      "tagline": "AI • Code • Innovation",
+      "voice_segment": "Runtime đang mở ra một kỷ nguyên mới cho ngành phát triển phần mềm, nơi AI không còn là công cụ hỗ trợ mà trở thành một thành viên tích cực trong đội. Đây là một bước tiến đáng kinh ngạc, nhưng cũng đặt ra nhiều câu hỏi về tương lai của chúng ta. Hãy cùng theo dõi và xem các tác nhân AI này sẽ định hình thế giới code ra sao nhé.",
+      "duration_hint": 5,
+      "start_frame": 2909,
+      "duration_frames": 472,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3Nzk3MjMwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "industry": "",
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "duration_frames": 3383
+  }
+}
