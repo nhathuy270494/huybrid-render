@@ -1,0 +1,94 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-c37d3e8944",
+  "video_title": "Mỹ Gây Bất Ổn Châu Âu: 5000 Lính Đến Ba Lan?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-c37d3e8944.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Mỹ Gây Bất Ổn Châu Âu?",
+      "subtitle": "5000 lính Mỹ đổ bộ Ba Lan: Ý nghĩa gì?",
+      "tags": [
+        "Mỹ",
+        "Châu Âu",
+        "NATO"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "US troops",
+        "Poland military",
+        "NATO exercise",
+        "European security"
+      ],
+      "voice_segment": "Một động thái bất ngờ từ Washington: Mỹ vừa triển khai 5000 quân đến Ba Lan, làm dấy lên làn sóng lo ngại khắp châu Âu. Quyết định này không chỉ gây chấn động mà còn khiến các đồng minh NATO hoang mang về định hướng chính sách của Mỹ.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 322
+    },
+    {
+      "type": "insight",
+      "headline": "Chính sách Mỹ: Thất thường hay Chiến lược?",
+      "points": [
+        "Mỹ triển khai 5000 quân đến Ba Lan, tăng cường hiện diện quân sự.",
+        "Al Jazeera: Chính sách Mỹ 'thất thường', gây khó hiểu cho NATO.",
+        "Các nước châu Âu không rõ ưu tiên an ninh nào là trọng yếu."
+      ],
+      "image_keywords": [
+        "US flag",
+        "European map",
+        "military presence",
+        "geopolitical tension"
+      ],
+      "source_note": "Al Jazeera",
+      "voice_segment": "Đây là một bước đi được cho là nhằm củng cố sườn phía đông của NATO, nhưng lại bị Al Jazeera mô tả là 'thất thường'. Nó khiến các đối tác châu Âu ngày càng khó xác định đâu là ưu tiên an ninh thực sự. Liệu đây có phải là chiến lược dài hạn hay chỉ là phản ứng nhất thời?",
+      "duration_hint": 12,
+      "start_frame": 322,
+      "duration_frames": 372
+    },
+    {
+      "type": "insight",
+      "headline": "Tương lai NATO: Bất định?",
+      "points": [
+        "Đồng minh NATO lo ngại về sự thiếu rõ ràng từ Mỹ.",
+        "Quyết định này có thể làm suy yếu đoàn kết nội khối."
+      ],
+      "image_keywords": [
+        "NATO symbol",
+        "European leaders",
+        "uncertain future",
+        "alliance tension"
+      ],
+      "source_note": "Phân tích địa chính trị",
+      "voice_segment": "Sự thiếu rõ ràng trong chính sách của Mỹ đang đặt ra thách thức lớn cho sự đoàn kết của NATO. Các đồng minh cần một định hướng ổn định để đối phó với các mối đe dọa khu vực. Liệu sự bất ổn này có làm suy yếu khả năng phòng thủ chung của châu Âu?",
+      "duration_hint": 10,
+      "start_frame": 694,
+      "duration_frames": 337,
+      "image_url": "https://images.unsplash.com/photo-1647006875983-1874b7aa7356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxOQVRPJTIwc3ltYm9sJTIwRXVyb3BlYW4lMjBsZWFkZXJzJTIwdW5jZXJ0YWluJTIwZnV0dXJlJTIwYWxsaWFuY2UlMjB0ZW5zaW9ufGVufDB8MHx8fDE3Nzk3NTc0MTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Tương lai Châu Âu sẽ ra sao?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Động thái này của Mỹ sẽ định hình lại cục diện an ninh châu Âu như thế nào? Liệu các quốc gia thành viên NATO có tìm được tiếng nói chung trong bối cảnh đầy biến động này? Hãy cùng Huybrid News theo dõi những diễn biến tiếp theo.",
+      "duration_hint": 4,
+      "start_frame": 1031,
+      "duration_frames": 315,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3Nzk3MjMwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1348
+  }
+}
