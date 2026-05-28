@@ -1,0 +1,97 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-4af2014949",
+  "video_title": "Mỹ Tạm Dừng Bán Vũ Khí Cho Đài Loan: Vì Iran?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-4af2014949.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Mỹ Tạm Dừng Vũ Khí Đài Loan?",
+      "subtitle": "Quyết Định Chấn Động Vì Cuộc Chiến Iran",
+      "tags": [
+        "Đài Loan",
+        "Mỹ",
+        "Iran",
+        "Vũ Khí"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "US flag",
+        "Taiwan flag",
+        "missiles",
+        "war"
+      ],
+      "voice_segment": "Một quyết định gây sốc vừa được công bố: Mỹ tạm dừng thương vụ bán vũ khí trị giá 14 tỷ USD cho Đài Loan. Lý do được đưa ra là để ưu tiên nguồn lực cho cuộc chiến với Iran. Đây có phải là dấu hiệu của một sự thay đổi lớn trong chính sách đối ngoại của Washington?",
+      "duration_hint": 7,
+      "start_frame": 0,
+      "duration_frames": 364,
+      "image_url": "https://images.unsplash.com/photo-1737971661846-55518e6e1355?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxVUyUyMGZsYWclMjBUYWl3YW4lMjBmbGFnJTIwbWlzc2lsZXMlMjB3YXJ8ZW58MHwwfHx8MTc3OTg4NzA4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Ưu Tiên Iran, Bỏ Rơi Đài Loan?",
+      "points": [
+        "Thượng nghị sĩ Hung Cao xác nhận 'tạm dừng' thương vụ 14 tỷ USD",
+        "Mục đích: Đảm bảo đạn dược cho xung đột Iran",
+        "Đài Loan phụ thuộc lớn vào vũ khí Mỹ để phòng thủ"
+      ],
+      "image_keywords": [
+        "US military",
+        "Taiwan defense",
+        "Iran conflict",
+        "weaponry"
+      ],
+      "source_note": "BBC World News",
+      "voice_segment": "Thượng nghị sĩ Hung Cao đã thẳng thắn tuyên bố tại phiên điều trần rằng việc tạm dừng là cần thiết để đảm bảo Mỹ có đủ đạn dược cho cuộc chiến ở Iran. Điều này đặt ra câu hỏi lớn về cam kết của Mỹ với Đài Loan, vốn đang rất cần vũ khí để đối phó với các mối đe dọa từ Trung Quốc.",
+      "duration_hint": 12,
+      "start_frame": 364,
+      "duration_frames": 386
+    },
+    {
+      "type": "insight",
+      "headline": "Hệ Lụy Địa Chính Trị Toàn Cầu",
+      "points": [
+        "Gửi tín hiệu sai lệch đến Trung Quốc",
+        "Làm suy yếu khả năng phòng thủ của Đài Loan",
+        "Thay đổi cán cân quyền lực khu vực"
+      ],
+      "image_keywords": [
+        "geopolitics map",
+        "China Taiwan relations",
+        "global power",
+        "military strategy"
+      ],
+      "source_note": "Phân tích Huybrid News",
+      "voice_segment": "Quyết định này không chỉ ảnh hưởng đến Đài Loan mà còn gửi một thông điệp phức tạp đến Trung Quốc, có thể khuyến khích các hành động gây hấn hơn. Nó cũng làm suy yếu vị thế của Mỹ như một đồng minh đáng tin cậy, định hình lại cán cân quyền lực trong khu vực và toàn cầu.",
+      "duration_hint": 12,
+      "start_frame": 750,
+      "duration_frames": 373,
+      "image_url": "https://images.unsplash.com/photo-1766933680546-4b3de9e10013?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxnZW9wb2xpdGljcyUyMG1hcCUyMENoaW5hJTIwVGFpd2FuJTIwcmVsYXRpb25zJTIwZ2xvYmFsJTIwcG93ZXIlMjBtaWxpdGFyeSUyMHN0cmF0ZWd5fGVufDB8MHx8fDE3Nzk4ODcwODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Tương lai Đài Loan sẽ ra sao?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Liệu Mỹ có đang đánh đổi an ninh của Đài Loan để tập trung vào một mặt trận khác? Tương lai của hòn đảo này sẽ đi về đâu trong bối cảnh địa chính trị đầy biến động này?",
+      "duration_hint": 5,
+      "start_frame": 1123,
+      "duration_frames": 232,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3Nzk4ODMwNzl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1357
+  }
+}
